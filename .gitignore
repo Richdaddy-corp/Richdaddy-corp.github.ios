@@ -44,3 +44,7 @@ node_modules
 
 # Ruby gems
 *.gem
+
+
+echo "*.pth" >> .gitignore
+cat .gitignore
