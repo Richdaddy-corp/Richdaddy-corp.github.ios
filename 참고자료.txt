@@ -1,0 +1,3 @@
+마크다운 문법 설명 https://www.heropy.dev/p/B74sNE
+
+블로그 생성 : https://jerry-style.tistory.com/entry/Jekyll%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%95%EC%84%9D%EB%8C%80%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0
